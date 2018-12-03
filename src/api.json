@@ -458,7 +458,12 @@
   ],
   "search.all": [
     "token",
-    "query"
+    "query",
+    "-opt-count",
+    "-opt-highlight",
+    "-opt-page",
+    "-opt-sort",
+    "-opt-sort_dir"
   ],
   "search.files": [
     "token",
