@@ -467,11 +467,21 @@
   ],
   "search.files": [
     "token",
-    "query"
+    "query",
+    "-opt-count",
+    "-opt-highlight",
+    "-opt-page",
+    "-opt-sort",
+    "-opt-sort_dir"
   ],
   "search.messages": [
     "token",
-    "query"
+    "query",
+    "-opt-count",
+    "-opt-highlight",
+    "-opt-page",
+    "-opt-sort",
+    "-opt-sort_dir"
   ],
   "stars.add": [
     "token"
